@@ -1,0 +1,28 @@
+{
+  "name": "@shyrwinsia/pse-client",
+  "version": "1.0.0",
+  "description": "An Unofficial Philippine Stock Exchange (PSE) Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyrwinsia/pse-client.git"
+  },
+  "keywords": [
+    "stocks",
+    "client",
+    "pse",
+    "trading"
+  ],
+  "author": "Shyrwinsteel Sia <shyrwinsia@gmail.com> (https://shyrwinsia.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shyrwinsia/pse-client/issues"
+  },
+  "homepage": "https://github.com/shyrwinsia/pse-client",
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
