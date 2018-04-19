@@ -24,5 +24,8 @@
   "homepage": "https://github.com/shyrwinsia/pse-client",
   "engines": {
     "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
